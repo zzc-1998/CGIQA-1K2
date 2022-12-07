@@ -5,7 +5,7 @@ The database provides 1,200 computer graphics images (CGI) collected from movies
 
 The Google Drive download [link]().
 
-The BaiduYunpan download [link](https://pan.baidu.com/s/1vhuE-2bdPUPaJVXSPSz3LA?pwd=xelb) Code:xelb.
+The BaiduYunpan download [link](https://pan.baidu.com/s/1vhuE-2bdPUPaJVXSPSz3LA?pwd=xelb) Code: xelb.
 
 
 
